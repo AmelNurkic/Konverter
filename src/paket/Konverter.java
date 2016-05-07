@@ -14,15 +14,15 @@ public class Konverter {
 		return kg;
 	}
 
-	// cm to inch
+	// cm to inch AmelAli
 	public static double cmToInch(double cm) {
 		return (cm/2.54);
 	}
 
-	// inch to cm
+	// inch to cm AmelAli
 	public static double inchToCm(double inch) {
 		return (inch*2.54);
-	}
+	} 
 
 	// celsius to fahrenheit
 	public static double celToFahr(double C) {
