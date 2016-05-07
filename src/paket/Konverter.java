@@ -16,12 +16,12 @@ public class Konverter {
 
 	// cm to inch
 	public static double cmToInch(double cm) {
-		return 0;
+		return (cm/2.54);
 	}
 
 	// inch to cm
 	public static double inchToCm(double inch) {
-		return 0;
+		return (inch*2.54);
 	}
 
 	// celsius to fahrenheit
